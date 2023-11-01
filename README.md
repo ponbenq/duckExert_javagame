@@ -1,5 +1,5 @@
 # duckExert_javagame
 ![menu](/screenshot/duckexert_menu.png)
-![main](/duckexert_main.png)
-![timer](/duckexert_timer.png)
-![exercise](/duckexert_exercise.png)
+![main](/screenshot/duckexert_main.png)
+![timer](/screenshot/duckexert_timer.png)
+![exercise](/screenshot/duckexert_exercise.png)
